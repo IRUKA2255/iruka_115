@@ -1,0 +1,66 @@
+.hanko span{
+   font-size: 250px;
+}
+#alert{
+   position: absolute;
+   top:400px;
+   left:15px;
+   color:red;
+}
+.name span{
+   font-size:60px;
+   position:absolute;
+   top:130px;
+   left:80px;
+   -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+ 
+}
+.main-warpper{
+   position: absolute;
+   left:47%;
+   top:150px;
+}
+.header-warpper h1{
+   position: absolute;
+   left:45%;
+   top:100px;
+}
+.border h1{
+   border: 2px solid rgb(3, 3, 3);
+   position: absolute;
+   left:500px;
+   height:100%;
+   top:-25px;
+}
+.border h2{
+   border: 2px solid rgb(3, 3, 3);
+   position: absolute;
+   left:500px;
+   height:100%;
+   top:-25px;
+   position: absolute;
+   left:1500px;
+}
+.text span, #text,.color{
+   position: relative;
+   left:-50px;
+   top:370px;
+}
+.color{
+   position: absolute;
+   left:250px;
+   top:345px;
+   width:100px;
+}
+.file button span {
+   color:red;
+}
+.file{
+   position: absolute;
+}
+.file button{
+   position: relative;
+   left:950px;
+   top:600px;
+}
